@@ -1,3 +1,0 @@
-git mv "CB" "統一證券實習"
-git commit -m "rename folder"
-git push
